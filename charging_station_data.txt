@@ -1,0 +1,3 @@
+The chosen electric vehicle chraging station has the following details:
+1. queue length is 10
+2. Estimated wait time is 20 minutes

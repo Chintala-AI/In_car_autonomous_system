@@ -1,0 +1,5 @@
+User name is John Doe.
+User has appointment at 9.30 am.
+Meeting location is at San Diego
+Urgency of the meeting is High
+Need to arrive 15 minutes before the meeting

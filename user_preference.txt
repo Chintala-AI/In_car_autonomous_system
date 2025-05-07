@@ -1,0 +1,34 @@
+User name is John Doe.
+User is an AI Engineer.
+User is interested in Thai cuisines, Mexican food.
+User likes taking black coffee
+User is based in San Francisco, California.
+User vehicle type is Electric vehicle.
+User likes pop songs.
+
+Also addtional details below:
+
+Travel Preferences & Context:
+Route Start/Departure Time: Please check calendar for the same.
+Vehicle Type & Range: Specify your EV's:
+Battery capacity (e.g., kWh).30 kWh
+Range per charge (e.g., miles). 40 miles
+Charging speed capabilities (slow, regular, fast charging stations).
+Charging Flexibility:
+Preferred charging stops duration.Maximum 30 minutes
+Maximum acceptable waiting time at stations.
+Dining & Break Preferences:
+Cuisine Priorities:
+Strict Thai and Mexican only or open to others? open to all also
+Are you looking for quick-service options or sit-down meals? prefer any
+Coffee Stops:
+Non-negotiable or optional? optional
+Cost Considerations:
+Budget Constraints:
+Are you looking for cost-efficient EV charging stations (e.g., prefer free or discounted charging)? prefer discounted charging
+Dining budget range for stops.20-40 Dollars
+Entertainment Preferences:
+Music Playback:
+Platform preference (Spotify, Apple Music, etc.)?Spotify
+Open to other genres aside from pop, if needed?yes
+

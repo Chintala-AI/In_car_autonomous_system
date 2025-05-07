@@ -1,0 +1,4 @@
+User name is John Doe.
+User vehicle type is Electric vehicle.
+Current battery level is 45%.
+Car room temperature is 20 degree Centrigade.
